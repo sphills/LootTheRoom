@@ -1,4 +1,7 @@
 # LootTheRoom
+
+Download the project files here: https://www.dropbox.com/sh/bypoqwovxiq0jjx/AAAC6iUS6JUigsSDIcXPkecpa?dl=0
+
 An ongoing, non-commercial, self-taught project (from scratch) working with Blueprints Scripting in Unreal Engine 4.16. Please copy the entirety of the folder and make sure all the components -"Engine," "LTR2" (the folder), "LTR2" (the application), and "Manifest_NonUFSFiles_Win32"- are located in one folder together.
 
 This project incorporates enums (for chest types and affecting the character); vectors (x/y/z world coords); looping through, modifying, and deleting arrays (they start at 0); object casting; and saving/loading data from an in-game file. The main objects are the RoomGeneration blueprint, LootChest blueprint, and the ThirdPersonCharacter blueprint. Please contact me if you would like more detailed pictures of functions within each object.
