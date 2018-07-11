@@ -20,6 +20,8 @@ This is an endless runner that consists of a room that spawns between one and th
 
 You only get to open one chest per room, so if you're at 35 or less health and only have one chest, it might be best to move on and try again. There's no penalty for not opening a chest.
 
+There's also a "developer's level" that shows the collision boxes to illustrate just when and how the player is detected and detects the chest. Feel free to explore that in addition to the base game.
+
 The character model, its textures, and the textures of the walls and floor were pre-existing assets produced by the team at Epic Games.
 
 The model of the chest and the modeled components of the room were created by me in-engine. All Blueprint scripting written by me.
