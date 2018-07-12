@@ -16,7 +16,7 @@ This is an endless runner that consists of a room that spawns between one and th
 
   2. Rewarding; this chest gives you a small amount of coins for picking it. Less than the Helpful chest, but still better than the following chest...
 
-  3. Harmful; this chest is booby-trapped! It contains a powerful explosive and does 35 damage if you have the misfortune of opening it! If you encounter it three times in a row, that's game over man, game over.
+  3. Harmful; this chest is booby-trapped! It contains a powerful explosive and does 35 damage if you have the misfortune of opening it. If you encounter it three times in a row, that's game over man, game over.
 
 You only get to open one chest per room, so if you're at 35 or less health and only have one chest, it might be best to move on and try again. There's no penalty for not opening a chest.
 
